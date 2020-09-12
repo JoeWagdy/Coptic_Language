@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Coptic Language</string>
+    <string name="letter01">Alpha</string>   <string name="letter01a">ألفا</string>
+    <string name="letter02">Bēta</string>    <string name="letter02a">ڤيتا</string>
+    <string name="letter03">Gamma</string>   <string name="letter03a">غما</string>
+    <string name="letter04">Delta</string>   <string name="letter04a">دلتا</string>
+    <string name="letter05">Ei</string>      <string name="letter05a">اي</string>
+    <string name="letter06">So</string>      <string name="letter06a">سو</string>
+    <string name="letter07">Zēta</string>    <string name="letter07a">زيتا</string>
+    <string name="letter08">Ēta</string>     <string name="letter08a">إيتا</string>
+    <string name="letter09">Thēta</string>   <string name="letter09a">ثيتا</string>
+    <string name="letter10">Yota</string>    <string name="letter10a">يوتا</string>
+    <string name="letter11">Kabba</string>   <string name="letter11a">كبا</string>
+    <string name="letter12">Lola</string>    <string name="letter12a">لولا</string>
+    <string name="letter13">Me</string>      <string name="letter13a">مي</string>
+    <string name="letter14">Ne</string>      <string name="letter14a">ني</string>
+    <string name="letter15">Eksi</string>    <string name="letter15a">اكسي</string>
+    <string name="letter16">O</string>       <string name="letter16a">او</string>
+    <string name="letter17">Pi</string>      <string name="letter17a">بي</string>
+    <string name="letter18">Ro</string>      <string name="letter18a">رو</string>
+    <string name="letter19">Sima</string>    <string name="letter19a">سيما</string>
+    <string name="letter20">Tav</string>     <string name="letter20a">تاڤ</string>
+    <string name="letter21">Epsilon</string> <string name="letter21a">ابسلن</string>
+    <string name="letter22">Fi</string>      <string name="letter22a">في</string>
+    <string name="letter23">Khe</string>     <string name="letter23a">كي</string>
+    <string name="letter24">Epsi</string>    <string name="letter24a">ابسي</string>
+    <string name="letter25">Ōmega</string>   <string name="letter25a">اوميجا</string>
+    <string name="letter26">Shay</string>    <string name="letter26a">شاي</string>
+    <string name="letter27">Fay</string>     <string name="letter27a">فاي</string>
+    <string name="letter28">Khay</string>    <string name="letter28a">خاي</string>
+    <string name="letter29">Hōri</string>    <string name="letter29a">هوري</string>
+    <string name="letter30">Janja</string>   <string name="letter30a">چنچا</string>
+    <string name="letter31">Tshēma</string>  <string name="letter31a">تشيما</string>
+    <string name="letter32">Ti/De</string>   <string name="letter32a">تي</string>
+    <string name="spell">ينطق</string>
+    <string name="l1">ينطف اَ مضخمة دائماً</string>                      <string name="l1n">اَ</string>
+    <string name="l2k1">ينطق ڤ إذا جاء بعده حرف متحرك</string>        <string name="l2n1">ڤ</string>
+    <string name="l2k2">ينطق ب فيما عدا ذلك</string>               <string name="l2n2">ب</string>
+    <string name="l3k1">ينطق ج إذا جاء بعده حرف قابل للكسر</string>      <string name="l3n1">ج</string>
+    <string name="l3k2">ينطق ن إذا جاء بعده حرف حلقي</string>         <string name="l3n2">ن</string>
+    <string name="l3k3">ينطق غ فيما عدا ذلك</string>                <string name="l3n3">غ</string>
+    <string name="l4k1">ينطق د في اسماء الاعلام</string>                   <string name="l4n1">د</string>
+    <string name="l4k2">ينطق ذ فيما عدا ذلك</string>                <string name="l4n2">ذ</string>
+    <string name="l5">ينطق ي خفيفة دائماً</string>                   <string name="l5n">ي</string>
+    <string name="l6">هو ليس حرفاً هجائياً ولكنه يعبر عن رقم 6</string>       <string name="l6n">6</string>
+    <string name="l7">ينطق ز دائماً</string>                       <string name="l7n">ز</string>
+    <string name="l8">ينطق ي طويلة دائماً</string>                   <string name="l8n">ي</string>
+    <string name="l9k1">ينطة ت إذا جاء قبله سيما أو شاي</string>        <string name="l9n1">ت</string>
+    <string name="l9k2">ينطق ث فيما عدا ذلك</string>               <string name="l9n2">ث</string>
+    <string name="l10">ينطق ياء قصيرة دائماً</string>                  <string name="l10n">ي</string>
+    <string name="l11">ينطق كاف دائماً</string>                    <string name="l11n">ك</string>
+    <string name="l12">ينطق لام دائماً</string>                     <string name="l12n">ل</string>
+    <string name="l13">ينطق ميم دائماً</string>                     <string name="l13n">م</string>
+    <string name="l14">ينطق نون دائماً</string>                     <string name="l14n">ن</string>
+    <string name="l15">ينطق ( ك + س ) دائماً مثل حرف X</string>              <string name="l15n">ك + س</string>
+    <string name="l16">ينطق اوو قصيرة دائماً</string>                  <string name="l16n">و</string>
+    <string name="l17">ينطق بي دائماً</string>                      <string name="l17n">ب</string>
+    <string name="l18">ينطق ر دائماً</string>                      <string name="l18n">ر</string>
+    <string name="l19">ينطق س دائماً</string>                     <string name="l19n">س</string>
+    <string name="l20k1">ينطق د إذا جاء بعده حرف N</string>          <string name="l20n1">د</string>
+    <string name="l20k2">ينطق ت فيما عدا ذلك</string>              <string name="l20n2">ت</string>
+    <string name="l21k1">ينطق ف إذا جاء قبله الفا</string>            <string name="l21n1">ف</string>
+    <string name="l21k2">ينطق اوو إذا جاء قبله O</string>             <string name="l21n2">ا</string>
+    <string name="l21k3">ينطق ي فيما عدا ذلك</string>               <string name="l21n3">ي</string>
+    <string name="l22">ينطق ف دائماً</string>                     <string name="l22n">ف</string>
+    <string name="l23k1">ينطق ك في الكلمات القبطية</string>            <string name="l23n1">ك</string>
+    <string name="l23k2">ينطق ش في الكلمات اليونانية</string>            <string name="l23n2">ش</string>
+    <string name="l23k3">ينطق خ فيما عدا ذلك</string>               <string name="l23n3">خ</string>
+    <string name="l24">ينطق ( ب + س ) دائماً</string>             <string name="l24n">ب + س</string>
+    <string name="l25">ينطق واو مفتوحه دائماً</string>                  <string name="l25n">و</string>
+    <string name="l26">ينطق ش دائماً</string>                      <string name="l26n">ش</string>
+    <string name="l27">ينطق ف دائماً</string>                     <string name="l27n">ف</string>
+    <string name="l28">ينطق خ دائماً</string>                      <string name="l28n">خ</string>
+    <string name="l29">ينطق ه دائماً</string>                      <string name="l29n">ه</string>
+    <string name="l30k1">ينطق چ إذا جاء بعده حرف متحرك قابل للكسر</string>  <string name="l30n1">چ</string>
+    <string name="l30k2">ينطق ج فيما عدا ذلك</string>               <string name="l30n2">ج</string>
+    <string name="l31">ينطق ( ت + ش ) دائماً</string>             <string name="l31n">ت + ش</string>
+    <string name="l32">ينطق ( ت + ي ) دائماً</string>             <string name="l32n">ت + ي</string>
+</resources>
